@@ -1,7 +1,8 @@
 # Versió amb clase Employee i un sol mètode per anar al bany (enlloc de 2, un per home i un per dona)
+# Autors: Juan Carlos Bujosa Herreros i José Luis García Herreros
 
 import threading
-import time
+import time 
 import random
 
 MEN = 6 # Nombre de processos home

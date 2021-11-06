@@ -1,2 +1,2 @@
-# unisextoilet
-unisex toilet
+# Baño compartido
+Simulación del uso de un baño compartido por varios procesos (hombres y mujeres) en el que se tiene que garantizar que los dos sexos no usen el baño al mismo tiempo y que no se supera el aforo máximo permitido.
