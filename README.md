@@ -1,2 +1,2 @@
 # Baño compartido
-Simulación del uso de un baño compartido por varios procesos (hombres y mujeres) en el que se tiene que garantizar que los dos sexos no usen el baño al mismo tiempo y que no se supera el aforo máximo permitido.
+Simulación del uso de un baño compartido por varios procesos (hombres y mujeres) en el que se tiene que garantizar que los dos sexos no usen el baño al mismo tiempo y que no se supera el aforo máximo permitido. Los diferentes procesos guardan una cola por orden de llegada.
