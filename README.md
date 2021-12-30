@@ -1,2 +1,4 @@
-# Baño compartido
-Simulación del uso de un baño compartido por varios procesos (hombres y mujeres) en el que se tiene que garantizar que los dos sexos no usen el baño al mismo tiempo y que no se supera el aforo máximo permitido. Los diferentes procesos guardan una cola por orden de llegada.
+# Shared unisex toilet
+This code simulates the shared unisex toilet problem. There is only one toilet in the fifth floor of a building and has to be shared between ladies and gentlemen. The solution must guarantee that the toilet is just used by one gender at a time and the maximum capacity cannot be excedeed (3 people max). 
+
+Link to explanation: 
