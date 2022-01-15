@@ -1,3 +1,4 @@
+# Juan Carlos Bujosa Herreros and José Luis García Herreros
 import threading, time, random
 
 MEN = 6 # Nombre de processos home
