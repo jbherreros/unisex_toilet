@@ -6,4 +6,4 @@ Needs to be runned on the Python VSCODE console for better visualization (colour
 Link to explanation: https://youtu.be/xQIplbp-bIk
 
 # Authors 
-Juan Carlos Bujosa Herreros and José Luis García Herreros
+Juan Carlos Bujosa Herreros
