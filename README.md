@@ -5,5 +5,5 @@ Needs to be runned on the Python VSCODE console for better visualization (colour
 
 Link to explanation: https://youtu.be/xQIplbp-bIk
 
-# Authors 
+# Author
 Juan Carlos Bujosa Herreros
